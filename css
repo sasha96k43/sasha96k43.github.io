@@ -1,0 +1,22 @@
+.abzatsy {
+	margin-bottom: 12px;
+}
+.zagolovki-h1 {
+	font-weight: 400;
+	font-size: 36px;
+	margin-bottom: 0px;
+}
+.zagolovki-h2 {
+	font-weight: 400;
+	font-size: 32px;
+	margin-bottom: 8px;
+	border-bottom-style: solid, 1px, #808080; 
+}
+#header {
+	margin-bottom: 32px;
+	text-align: center;
+}
+#footer {
+	margin-top: 64px;
+	text-align: center;
+}
